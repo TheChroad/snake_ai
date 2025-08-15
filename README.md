@@ -176,9 +176,7 @@ Game settings in `snake_env.py`:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-# 📚 License
+## 📚 Troubleshooting
 
 Content is provided under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise noted.
 
