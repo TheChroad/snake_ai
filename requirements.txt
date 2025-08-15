@@ -1,0 +1,8 @@
+# Core dependencies
+numpy>=1.21.0
+pygame>=2.1.0
+matplotlib>=3.5.0
+
+# PyTorch - will be installed based on system detection
+torch>=2.0.0
+torchvision>=0.15.0
